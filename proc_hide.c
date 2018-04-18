@@ -1,5 +1,5 @@
 #define PROCESS_COUNT 2
-#define PROCESS_LIST {"xmrig","tmux"}
+#define PROCESS_LIST {"PROCESS_1","PROCESS_2"}
 
 #define _GNU_SOURCE
 
